@@ -9,3 +9,7 @@ function m2() {
 function m3() {
   console.log("m3");
 }
+
+function m4() {
+  console.log("m4");
+}
