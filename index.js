@@ -13,3 +13,7 @@ function m3() {
 function m4() {
   console.log("m4");
 }
+
+function m5() {
+  console.log("m5")
+}
